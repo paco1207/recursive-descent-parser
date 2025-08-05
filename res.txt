@@ -1,0 +1,18 @@
+Compilation Exception
+	Caused by Expected begin, found begim, at line 1
+
+Compilation Exception
+	Caused by Expected if, found , at line 11
+
+Compilation Exception
+	Caused by Expected starting symbol for statement, found end, at line 7
+
+Compilation Exception
+	Caused by Expected loop, found ;, at line 7
+
+Compilation Exception
+	Caused by Expected starting symbol for statement, found else, at line 4
+
+Compilation Exception
+	Caused by Expected EOF, found call, at line 12
+
