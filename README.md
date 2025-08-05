@@ -1,4 +1,4 @@
-# Recursive Descent Syntax Recogniser (SCC312)
+# Recursive Descent Syntax Recogniser 
 
 This project implements a recursive descent parser and syntax analyser in Java. Developed for the SCC312 Compilers module, it reads and checks the syntactic correctness of input programs written in a simplified language.
 
